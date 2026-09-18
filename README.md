@@ -322,4 +322,13 @@ Project developed by **bennycreation**.
 
 The project license has not yet been defined.
 
-Until a `LICENSE` file is added, the code should not be considered automatically available for redistribution or modification.
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and license notice are included.
+
+See the [`LICENSE`](LICENSE) file for the full license text.
+
+Copyright © 2026 Bone & Banner Arena contributors.
+
